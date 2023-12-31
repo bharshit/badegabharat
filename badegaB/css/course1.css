@@ -1,0 +1,96 @@
+/* Styling for main content */
+.main {
+    margin-bottom: 20px;
+}
+
+.main h3 {
+    color: #333;
+    font-size: 24px;
+}
+
+.main p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Styling for tables */
+.table {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.table h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.table table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table td,
+.table th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for criteria */
+.criteria {
+    background-color: #eef;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.criteria h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.criteria table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.criteria td,
+.criteria th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for exam pattern */
+.pattern_6,
+.pattern_9 {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pattern_6 h4,
+.pattern_9 h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.pattern_6 table,
+.pattern_9 table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.pattern_6 td,
+.pattern_6 th,
+.pattern_9 td,
+.pattern_9 th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}

@@ -1,0 +1,155 @@
+
+/* Styling for main content */
+.main {
+    margin-bottom: 20px;
+}
+
+.main h3 {
+    color: #333;
+    font-size: 24px;
+}
+
+.main p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Styling for schools location */
+.schools_loc {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.schools_loc h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.schools_loc ol {
+    padding-left: 20px;
+}
+
+/* Styling for important dates */
+.imp_dates {
+    background-color: #eef;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.imp_dates h4 {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.imp_dates table {
+    width: auto;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.imp_dates td,
+.imp_dates th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for age eligibility */
+.age_eligible {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.age_eligible h4 {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.age_eligible table {
+    width: auto;
+    margin-top: 10px;
+    border-collapse: collapse;
+}
+
+.age_eligible td,
+.age_eligible th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for notes */
+.Note {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.Note ul {
+    list-style-type: disc;
+}
+
+/* Styling for exam pattern */
+.pattern {
+    background-color: #f7f7f7;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pattern h4 {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.pattern table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.pattern td,
+.pattern th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for papers in 9th class */
+.papers {
+    margin-bottom: 20px;
+}
+
+.paper_1,
+.paper_2 {
+    background-color: #eef;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.paper_1 h4,
+.paper_2 h4 {
+    color: #444;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.paper_1 table,
+.paper_2 table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.paper_1 td,
+.paper_1 th,
+.paper_2 td,
+.paper_2 th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}

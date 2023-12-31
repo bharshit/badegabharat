@@ -1,0 +1,113 @@
+/* Styling for main content */
+.main {
+    margin-bottom: 20px;
+}
+
+.main h3 {
+    color: #333;
+    font-size: 24px;
+}
+
+.main p {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Styling for note */
+.note {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.note h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.note ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
+
+.note li {
+    color: #666;
+    font-size: 16px;
+}
+
+/* Styling for age eligibility */
+.age_eligible {
+    background-color: #eef;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.age_eligible h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Styling for exam pattern */
+.pattern {
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.pattern h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.pattern table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.pattern td,
+.pattern th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Styling for qualification */
+.qualification {
+    background-color: #eff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.qualification h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Styling for important dates */
+.imp_dates {
+    background-color: #fee;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.imp_dates h4 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.imp_dates table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.imp_dates td,
+.imp_dates th {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}

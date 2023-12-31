@@ -1,0 +1,64 @@
+/* Styles for specific elements in the structure */
+
+/* Section */
+.courses_f {
+  /* Your styles for the section */
+}
+
+/* Container */
+.container {
+  /* Your styles for the container */
+}
+
+/* Course fee */
+.course_fee {
+  /* Your styles for the course fee */
+}
+
+/* Coursefee_1 */
+.coursefee_1 {
+  /* Your styles for coursefee_1 */
+}
+
+/* Header styles within coursefee_1 */
+.coursefee_1 h3 {
+  color: var(--color-primary);
+  font-size: 24px;
+  margin-top: 5rem;
+  /* Other header styles */
+}
+
+.coursefee_1 h4 {
+  color: var(--color-body);
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  /* Other h4 styles */
+}
+
+/* Table styles within coursefee_1 */
+.coursefee_1 table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #f2f2f2;
+  border: 2px solid #000;
+  margin-bottom: 20px; /* Adjust spacing */
+}
+
+/* Table row styles within coursefee_1 */
+.coursefee_1 tr {
+  border: 1px solid #ddd;
+}
+
+/* Table cell styles within coursefee_1 */
+.coursefee_1 td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+/* Table header cell styles within coursefee_1 */
+.coursefee_1 th {
+  padding: 8px;
+  border: 1px solid #ddd;
+  background-color: #4CAF50;
+  color: white;
+}
